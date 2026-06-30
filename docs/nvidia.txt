@@ -1,0 +1,7 @@
+Nvidia Corporation is an American technology company headquartered in Santa Clara, California.
+
+Nvidia was founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem. It designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, as well as system on chip units (SoCs) for mobile computing and automotive markets.
+
+Nvidia is a dominant supplier of AI hardware and software, and its graphics cards are widely used in gaming, professional visualization, data centers, and automotive applications. The company's CUDA platform is a standard for GPU-accelerated computing.
+
+Nvidia's first product was the NV1, a multimedia accelerator released in 1995. In 2011, Nvidia acquired Icera, a fabless semiconductor company, to enter the mobile baseband processor market.
